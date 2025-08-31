@@ -1,73 +1,142 @@
-<!-- ✨ WELCOME BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Syed+Abdul+Muiz+👋;Java+%7C+C+%7C+C%2B%2B+Coder+%26+Tech+Enthusiast;Coding+with+Passion+and+Levitating+to+New+Heights+🚀" alt="Typing SVG" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Syed Abdul Muiz - Developer</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 
-<!-- 🔥 COOL ANIMATED GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="320" alt="coding gif" />
-</p>
+  /* Reset & basics */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: #fff;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+  }
 
----
+  .container {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    padding: 40px;
+    max-width: 700px;
+    text-align: center;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.3);
+  }
 
-## 🎧 Now Jamming: *Levitating – Dua Lipa*
+  h1 {
+    font-size: 3.5rem;
+    margin-bottom: 0.3em;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  }
 
-<p align="center">
-  <a href="https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9" target="_blank">
-    <img src="https://spotify-readme.vercel.app/api?track=463CkQjx2Zk1yXoBuierM9&theme=default&scan=true" width="400" alt="Levitating by Dua Lipa"/>
-  </a>
-</p>
+  .subtitle {
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-bottom: 1em;
+    color: #ffdd59;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.3);
+  }
 
----
+  .skills {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 2em;
+  }
 
-## 💻 Skills & Tech Stack
+  .skill {
+    background: rgba(255, 255, 255, 0.15);
+    padding: 12px 25px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: #fff;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+    transition: background 0.3s ease;
+    cursor: default;
+  }
+  .skill:hover {
+    background: #ffdd59;
+    color: #764ba2;
+    box-shadow: 0 0 15px #ffdd59;
+  }
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+  .description {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 2.5em;
+    color: #e0e0e0;
+    text-shadow: 1px 1px 5px rgba(0,0,0,0.2);
+  }
 
----
+  .footer {
+    margin-top: 2em;
+  }
 
+  /* Audio Player Styling */
+  audio {
+    outline: none;
+    border-radius: 12px;
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 0 4px 20px rgba(255, 221, 89, 0.6);
+    cursor: pointer;
+  }
 
-## 💬 Dev Quote
+  /* Animate fade in */
+  .container {
+    animation: fadeIn 1.5s ease forwards;
+    opacity: 0;
+  }
 
-> "_Any fool can write code that a computer can understand. Good programmers write code that humans can understand._"  
-> — Martin Fowler
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+    }
+  }
+</style>
+</head>
+<body>
 
----
+<div class="container">
+  <h1>Syed Abdul Muiz</h1>
+  <div class="subtitle">Coder | Developer | Problem Solver</div>
 
-## 🔗 Connect & Follow Me
+  <div class="skills">
+    <div class="skill">Java</div>
+    <div class="skill">C</div>
+    <div class="skill">C++</div>
+    <div class="skill">HTML</div>
+    <div class="skill">CSS</div>
+    <div class="skill">JavaScript</div>
+  </div>
 
-<p align="center">
-  <a href="syedabdulmuiz1@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="www.linkedin.com/in/syed-abdul-muiz-049a55297" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</p>
+  <p class="description">
+    Passionate programmer specializing in Java, C, and C++ with a growing interest in web technologies like HTML, CSS, and JavaScript. 
+    Always eager to learn, create, and contribute to meaningful projects.
+  </p>
 
----
+  <div class="footer">
+    <audio controls>
+      <source src="https://cdn.pixabay.com/download/audio/2023/03/24/audio_d3c39aa98f.mp3?filename=levitating-11652.mp3" type="audio/mpeg" />
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
 
-## 🎯 Fun Fact
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohs7KViFzz87wwqYo/giphy.gif" width="220" alt="fun fact gif"/>
-</p>
-
----
-
-## 🎨 ASCII Art
-
-```txt
-   ____       _                 _ _     _       
-  / ___|  ___| |__   ___   ___ | (_)___| |_ ___ 
-  \___ \ / __| '_ \ / _ \ / _ \| | / __| __/ __|
-   ___) | (__| | | | (_) | (_) | | \__ \ |_\__ \
-  |____/ \___|_| |_|\___/ \___/|_|_|___/\__|___/
-                                               
-      Syed Abdul Muiz - Code with Passion
+</body>
+</html>
