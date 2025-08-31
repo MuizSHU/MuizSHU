@@ -1,58 +1,65 @@
-<!-- Profile Header -->
+<!-- 🎉 HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&width=435&lines=Welcome+to+my+GitHub!+🚀;I+love+coding+in+C%23+and+Python!;Exploring+AI+%26+Software+Development;Open+to+collaborations+🤝" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Your+Name+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Enjoy+your+stay+and+explore+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+<!-- 🖼️ PROFILE INFO -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3d/20/79/3d20799e1ff5b92ba0b6671e16ba2b45.gif" width="250" alt="cool anime gif"/>
 </p>
 
 ---
 
-# 👋 Hello, I'm [Syed Abdul Muiz]  
+## 🧑‍💻 About Me
 
-💻 **1st Year University Student | Tech Enthusiast | AI Explorer**  
-🚀 Passionate about **C#, Python, Web Development, and AI**  
-🎯 Currently learning **Advanced Algorithms & Discrete Math**  
-
----
-
-## 🚀 About Me  
-- 🏆 **Problem Solver** & passionate about **building software solutions**  
-- 🔭 Currently working on **exciting AI & software projects**  
-- 🌱 Always learning **new technologies & frameworks**  
-- 💬 Ask me about **C#, Python, Git, and Open Source**  
-- ⚡ Fun fact: **I love debugging more than coding! 😆**  
+- 👨‍💻 I'm a passionate developer, dreamer, and tech explorer
+- 🎵 Music fuels my code! (see below 🎧)
+- 💡 Always curious and hungry to learn
+- 🔭 Currently building something awesome!
+- ✉️ Reach me at: [youremail@example.com](mailto:youremail@example.com)
 
 ---
 
-## 🌟 Skills & Technologies  
+## 🎵 Now Playing on Spotify
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://spotify-now-playing-pi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
+</p>
+
+> 💡 This widget updates live! You can host this yourself or use [GitHub Actions + Spotify API].
+
+---
+
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
 
-## 🌍 Connect With Me  
+## 📊 Top Languages
+
 <p align="center">
-  <a href=www.linkedin.com/in/syed-abdul-muiz-049a55297>
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/MuizSHU">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:syedabdulmuiz1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
-## 🎮 Fun Stuff  
-🎵 **Now Playing:**  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)  
+## ✨ Fun Stuff
 
----
+### 📅 GitHub Calendar
+<!-- Add GitHub activity calendar -->
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/output/github-contribution-grid-snake.svg" alt="snake graph" />
+</p>
 
-🌟 **Thank you for visiting!** 🚀 **Let's connect and build something amazing together!** 😃  
+### 🧠 Random Dev Quote
+
+> _“Programs must be written for people to read, and only incidentally for machines to execute.”_  
+> — Harold Abelson
+
+### 🧑‍🎨 ASCII Art
+
