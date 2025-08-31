@@ -1,65 +1,87 @@
-<!-- 🎉 HEADER BANNER -->
+<!-- ✨ HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Your+Name+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Enjoy+your+stay+and+explore+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+World+🌎;Code.+Create.+Inspire.;Levitating+with+Lines+of+Code+🚀" alt="Typing SVG" />
 </p>
 
-<!-- 🖼️ PROFILE INFO -->
+<!-- 💫 ANIMATED GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3d/20/79/3d20799e1ff5b92ba0b6671e16ba2b45.gif" width="250" alt="cool anime gif"/>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 👨‍💻 I'm a passionate developer, dreamer, and tech explorer
-- 🎵 Music fuels my code! (see below 🎧)
-- 💡 Always curious and hungry to learn
-- 🔭 Currently building something awesome!
-- ✉️ Reach me at: [youremail@example.com](mailto:youremail@example.com)
-
----
-
-## 🎵 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-now-playing-pi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
-</p>
-
-> 💡 This widget updates live! You can host this yourself or use [GitHub Actions + Spotify API].
-
----
-
-## 🚀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
 </p>
 
 ---
 
-## 📊 Top Languages
+## 🎵 Now Playing: *Levitating – Dua Lipa*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+  <a href="https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9" target="_blank">
+    <img src="https://spotify-readme.vercel.app/api?track=463CkQjx2Zk1yXoBuierM9&theme=default&scan=true" width="400" alt="Levitating by Dua Lipa"/>
+  </a>
 </p>
 
 ---
 
-## ✨ Fun Stuff
+## 📊 GitHub Stats & Contributions
 
-### 📅 GitHub Calendar
-<!-- Add GitHub activity calendar -->
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/output/github-contribution-grid-snake.svg" alt="snake graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
-### 🧠 Random Dev Quote
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=6" width="50%" />
+</p>
 
-> _“Programs must be written for people to read, and only incidentally for machines to execute.”_  
-> — Harold Abelson
+---
 
-### 🧑‍🎨 ASCII Art
+## 🐍 GitHub Contribution Snake
 
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧠 Dev Quote of the Day
+
+> "_First, solve the problem. Then, write the code._"  
+> — John Johnson
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="www.linkedin.com/in/syed-abdul-muiz-049a55297"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
+  <a href="mailto:syedabdulmuiz1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+## 🎖️ Badges
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/stars/yourusername?style=social" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername" />
+</p>
+
+---
+
+## 🎨 Aesthetic ASCII Art
+
+```txt
+               [¯`·.¸¸.·´¯`·.¸¸.->  Happy Coding!  <-.¸¸.·´¯`·.¸¸.·´¯]
