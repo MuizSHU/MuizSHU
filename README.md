@@ -1,16 +1,16 @@
-<!-- ✨ HEADER BANNER -->
+<!-- ✨ WELCOME BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+World+🌎;Code.+Create.+Inspire.;Levitating+with+Lines+of+Code+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=800&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Syed+Abdul+Muiz+👋;Java+%7C+C+%7C+C%2B%2B+Coder+%26+Tech+Enthusiast;Coding+with+Passion+and+Levitating+to+New+Heights+🚀" alt="Typing SVG" />
 </p>
 
-<!-- 💫 ANIMATED GIF -->
+<!-- 🔥 COOL ANIMATED GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="320" alt="coding gif" />
 </p>
 
 ---
 
-## 🎵 Now Playing: *Levitating – Dua Lipa*
+## 🎧 Now Jamming: *Levitating – Dua Lipa*
 
 <p align="center">
   <a href="https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9" target="_blank">
@@ -20,68 +20,54 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 💻 Skills & Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=6" width="50%" />
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ---
 
-## 🧠 Dev Quote of the Day
 
-> "_First, solve the problem. Then, write the code._"  
-> — John Johnson
+## 💬 Dev Quote
+
+> "_Any fool can write code that a computer can understand. Good programmers write code that humans can understand._"  
+> — Martin Fowler
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Connect & Follow Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/syed-abdul-muiz-049a55297"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
-  <a href="mailto:syedabdulmuiz1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="syedabdulmuiz1@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="www.linkedin.com/in/syed-abdul-muiz-049a55297" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </p>
 
 ---
 
-## ⚡ Tech Stack
+## 🎯 Fun Fact
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://media.giphy.com/media/3ohs7KViFzz87wwqYo/giphy.gif" width="220" alt="fun fact gif"/>
 </p>
 
 ---
 
-## 🎖️ Badges
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" />
-  <img src="https://img.shields.io/github/stars/yourusername?style=social" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername" />
-</p>
-
----
-
-## 🎨 Aesthetic ASCII Art
+## 🎨 ASCII Art
 
 ```txt
-               [¯`·.¸¸.·´¯`·.¸¸.->  Happy Coding!  <-.¸¸.·´¯`·.¸¸.·´¯]
+   ____       _                 _ _     _       
+  / ___|  ___| |__   ___   ___ | (_)___| |_ ___ 
+  \___ \ / __| '_ \ / _ \ / _ \| | / __| __/ __|
+   ___) | (__| | | | (_) | (_) | | \__ \ |_\__ \
+  |____/ \___|_| |_|\___/ \___/|_|_|___/\__|___/
+                                               
+      Syed Abdul Muiz - Code with Passion
